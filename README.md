@@ -51,11 +51,14 @@ Aplicación móvil para Android desarrollada con React Native + Expo para la ges
 ## Variables de entorno
 
 Copia `.env.example` a `.env` y completa con tus credenciales:
-EXPO_PUBLIC_SUPABASE_URL=
-EXPO_PUBLIC_SUPABASE_ANON_KEY=
-EXPO_PUBLIC_RESEND_API_KEY=
-EXPO_PUBLIC_MP_PUBLIC_KEY=
-EXPO_PUBLIC_MP_ACCESS_TOKEN=
+
+| Variable | Descripción |
+|---|---|
+| `EXPO_PUBLIC_SUPABASE_URL` | URL del proyecto en Supabase |
+| `EXPO_PUBLIC_SUPABASE_ANON_KEY` | Clave pública de Supabase |
+| `EXPO_PUBLIC_RESEND_API_KEY` | API Key de Resend |
+| `EXPO_PUBLIC_MP_PUBLIC_KEY` | Public Key de MercadoPago |
+| `EXPO_PUBLIC_MP_ACCESS_TOKEN` | Access Token de MercadoPago |
 
 ## Desarrollado por
 
