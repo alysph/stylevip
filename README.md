@@ -62,4 +62,4 @@ Copia `.env.example` a `.env` y completa con tus credenciales:
 
 ## Desarrollado por
 
-Alison Urrea — [GitHub](https://github.com/alysph)
+Alison Urrea Huerta — [GitHub](https://github.com/alysph) · [Portafolio](https://alisonurrea.vercel.app)
