@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "StyleVIP",
+    "slug": "stylevip",
+    "scheme": "stylevip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#1A1A2E"
+      },
+      "package": "com.stylevip.app"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.stylevip.app"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
